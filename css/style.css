@@ -1,0 +1,114 @@
+#body1{
+    background-color: #6dcffa;
+    font-family: Gruppo , sans-serif;
+}
+#body2{
+    margin: 0;
+    padding: 0;
+    font-family: Gruppo , sans-serif;
+}
+#asbaslik{
+    text-align: center;
+}
+#icon{
+    position:sticky;
+    width: 350px;
+    padding-top: 20px;
+}
+.icon{
+    display: block;
+    text-align: center;
+    position: relative;
+    padding-bottom: 0px;
+    align-items: flex-start;
+}
+#önyazi{
+    text-align: center;
+    text-decoration:none;
+}
+#önyazi p {
+    font-size: Xx-large;
+}
+.nav1{
+    text-align: center;
+    padding: 20px;     
+}
+#btn1,#btn2{
+    border: 5px solid #00679360;
+    padding: 10px;
+    text-decoration:none;
+    border-radius: 48%;
+    font-weight: 600;
+    font-size: large;
+    font-family: sans-serif;
+}
+#btn1:hover {
+    background-color: black;
+    color: #009fe3
+}
+#btn2:hover {
+    background-color: black;
+    color: #009fe3
+}
+
+/* Product Sayfası başladı */
+
+#say2nav {
+    padding: 0px 10px;
+    margin: 3px;
+    font-size: x-large;
+    color: black;
+    text-decoration:none;
+    font-family: Gruppo , sans-serif;
+}
+#carimg{
+    width: 250px;
+    cursor: pointer;
+}
+#baslik {
+    text-align: center;
+    letter-spacing: 8px;
+    font-size: 50px;
+}
+.c>h2 { 
+    text-align: center;
+    float: center;
+    margin-right: 90px;
+}
+.c1>h2 {
+    float: left;
+    text-align: left;
+    margin-left: 10px;
+}
+#carimg:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    box-shadow: 0px 0px 5px;
+}
+.adreess,.tel,.mail{
+    text-align: center;
+    font-size: 20px;
+}
+.about{
+    margin-top: 50px;
+}
+.destek{
+    margin-top: 10%;
+    text-align: center;
+    font-size: 15px;
+}
+.destek:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.mail:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+}
+#ilbaslik{
+    padding: 40px;
+    margin: 0;
+    text-align: center;
+    letter-spacing: 8px;
+    font-size: 50px;
+}
